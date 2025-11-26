@@ -1,4 +1,4 @@
-# 🛍️ TiendaVapers - UrbanVapeFrontend
+#  TiendaVapers - UrbanVapeFrontend
 
 Este proyecto forma parte de la asignatura **Puesta en Producción Segura**.  
 El objetivo es desarrollar y desplegar una tienda web de vapers aplicando buenas prácticas de seguridad, control de versiones y trabajo en equipo.
@@ -7,7 +7,7 @@ El frontend está desarrollado con **Angular 21 + Tailwind CSS**.
 
 ---
 
-## 👥 Organización del trabajo en Git (flujo seguro)
+##  Organización del trabajo en Git (flujo seguro)
 
 Utilizamos un flujo basado en ramas para evitar errores en producción y asegurar calidad:
 
@@ -24,9 +24,9 @@ Utilizamos un flujo basado en ramas para evitar errores en producción y asegura
 
 ---
 
-## 📚 Comandos básicos de Git para el equipo
+## Comandos básicos de Git para el equipo
 
-### 🚀 Clonar el proyecto
+###  Clonar el proyecto
 ```bash
 git clone https://github.com/josemb02/TiendaVapers.git
 cd TiendaVapers
